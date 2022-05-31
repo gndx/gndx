@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Foundation Layer at Platzi - Microsoft MVP - Lead at Developer Circles from Meta, I teach React & Svelte - #Web3 #BTC #ETH - #Twitch Partner - 🇲🇽 🇨🇴#EStreamerCoders #Frontend
+Learning Engineer at @platzi - Microsoft MVP - Lead at Developer Circles from Meta, #JavaScript #React #Web3 #BTC #ETH - #Twitch Partner - 🇲🇽 🇨🇴
 
 - 📚 Courses: https://platzi.com/teachers/gndx/
 - 🎥 Twitch Channel: https://twitch.tv/gndxdev/
