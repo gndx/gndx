@@ -2,7 +2,7 @@
 
 Learning Engineer at @platzi - Microsoft MVP - Lead at Developer Circles from Meta, #JavaScript #React #Web3 #BTC #ETH - #Twitch Partner - 🇲🇽 🇨🇴
 
-- 📚 Courses: https://platzi.com/teachers/gndx/
+- 📚 Courses: https://platzi.com/conoceme/gndx/
 - 🎥 Twitch Channel: https://twitch.tv/gndxdev/
 - 📺 Youtube Channel: https://youtube.com/oscarbarajas/
 - 🎙️ Podcast: https://gndx.dev/podcast/
