@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Learning Engineer at @platzi - Microsoft MVP - Lead at Developer Circles from Meta, #JavaScript #React #Web3 #BTC #ETH - #Twitch Partner - 🇲🇽 🇨🇴
+Learning Engineer at @platzi - Microsoft MVP - #JavaScript #React #Web3 #WithAstro #Twitch Partner - 🇲🇽 🇨🇴
 
 - 📚 Courses: https://platzi.com/conoceme/gndx/
 - 🎥 Twitch Channel: https://twitch.tv/gndxdev/
