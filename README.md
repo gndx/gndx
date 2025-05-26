@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Learning Engineer at @platzi - Microsoft MVP - #JavaScript #React #Web3 #WithAstro #Twitch Partner - 🇲🇽 🇨🇴
+Learning Engineer at @platzi - Microsoft MVP - #JavaScript #React #buildinpublic #WithAstro #Twitch Partner - 🇲🇽 🇨🇴
 
 - 📚 Courses: https://platzi.com/conoceme/gndx/
-- 🎥 Twitch Channel: https://twitch.tv/gndxdev/
+- 🎥 Twitch Channel: https://twitch.tv/gndxbricks/
 - 📺 Youtube Channel: https://youtube.com/oscarbarajas/
 - 🎙️ Podcast: https://gndx.dev/podcast/
 
